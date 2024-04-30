@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a Blockchain development project
 - 📫 You can reach me at hrishikeshingale963@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: best coder on the east of Mississippi.
+- ⚡ Fun fact: best coder to the east of Mississippi.
 
 <!---
 Sybarite2808/Sybarite2808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
